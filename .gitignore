@@ -13,3 +13,6 @@ logs
 # Editor
 .vscode/
 .idea/
+
+# Project snapshots (keep out of repo)
+snapshots/
