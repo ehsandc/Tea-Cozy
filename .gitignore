@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Node/npm (if ever used)
+node_modules/
+npm-debug.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Editor
+.vscode/
+.idea/
