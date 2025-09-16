@@ -1,7 +1,8 @@
 {
   "name": "The Tea Cozy",
   "short_name": "Tea Cozy",
-  "start_url": ".",
+  "start_url": "/Tea-Cozy/",
+  "scope": "/Tea-Cozy/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
